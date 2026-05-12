@@ -1,2 +1,3 @@
 # UX-portfolio
-Tere!
+
+UX & E-commerce Systems Designer (ERP + Frontend + Marketing)
